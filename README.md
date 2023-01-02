@@ -1,5 +1,7 @@
 # ASKAR NOTES
 
+<!-- fold -->
+
 - [chapter 1](https://github.com/D00mch/askar_docs/blob/main/CHAPTER%201.md)
 - [chapter 2](https://github.com/D00mch/askar_docs/blob/main/CHAPTER%202.md)
 - [chapter 3](https://github.com/D00mch/askar_docs/blob/main/CHAPTER%203.md)
@@ -22,6 +24,8 @@
 - [chapter 20](https://github.com/D00mch/askar_docs/blob/main/CHAPTER%2020.md)
 - [chapter 21](https://github.com/D00mch/askar_docs/blob/main/CHAPTER%2021.md)
 - [chapter 22](https://github.com/D00mch/askar_docs/blob/main/CHAPTER%2022.md)
+
+<!-- endfold -->
 
 ## How to translate
 
@@ -51,3 +55,7 @@ Links above to translator:
 - [translated.chapter 20](https://translate.yandex.ru/?lang=en-ru&text=https%3A%2F%2Fgithub.com%2FD00mch%2Faskar_docs%2Fblob%2Fmain%2FCHAPTER%252020.md)
 - [translated.chapter 21](https://translate.yandex.ru/?lang=en-ru&text=https%3A%2F%2Fgithub.com%2FD00mch%2Faskar_docs%2Fblob%2Fmain%2FCHAPTER%252021.md)
 - [translated.chapter 22](https://translate.yandex.ru/?lang=en-ru&text=https%3A%2F%2Fgithub.com%2FD00mch%2Faskar_docs%2Fblob%2Fmain%2FCHAPTER%252022.md)
+
+## Deploy
+
+[hugo](https://gohugo.io/hosting-and-deployment/hosting-on-github/)

@@ -3,7 +3,7 @@ name: github pages with hugo
 on:
   push:
     branches:
-      - gh-pages
+      - main
   pull_request:
 
 jobs:

@@ -1,3 +1,9 @@
+---
+title: "CHAPTER 21"
+date: 2022-11-20T09:03:20-08:00
+draft: true
+---
+
 # CHAPTER 21
 
 ## Alternative DSM-5 Model

@@ -1,3 +1,9 @@
+---
+title: "CHAPTER 10"
+date: 2022-11-20T09:03:20-08:00
+draft: true
+---
+
 # CHAPTER 10
 
 ## Somatic Symptom and

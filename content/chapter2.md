@@ -1,3 +1,9 @@
+---
+title: "CHAPTER 2"
+date: 2022-11-20T09:03:20-08:00
+draft: true
+---
+
 # CHAPTER 2
 
 ## Use of DSM-5 and Major

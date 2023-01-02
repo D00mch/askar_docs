@@ -1,6 +1,0 @@
-baseURL = 'https://d00mch.github.io/askar_docs/'
-languageCode = 'en-us'
-title = 'AskarBook'
-theme = 'hugo-book'
-BookTheme = 'auto'
-BookToC = true
